@@ -1,1 +1,2 @@
 # TareaSOLID-3
+En la sustitucion de Liskov basados en este ejemplo es que ambos productos osea el digital y el fisico hereden el metodo de operacion para calcular el descuento pero cada una de estas se va a comportar dependiendo de la clase y asi es como se cumple el principio de la sustitucion de Liskov que dice que un objeto de la clase hija puede sustituir a uno de la clase padre sin romper el comportamiento esperado del programa 
